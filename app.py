@@ -1,3 +1,4 @@
 import numpy as numpy
 a = np.log(25)
-a = np.exp(A)
+b = np.exp(a)
+print(f"log of 25 is {a} and exponancial is {b}")
